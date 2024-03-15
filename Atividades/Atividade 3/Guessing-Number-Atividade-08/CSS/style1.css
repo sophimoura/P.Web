@@ -1,0 +1,44 @@
+/*Tela de Instruções*/
+
+.body2 {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: auto;
+  background-image: linear-gradient(to left, #000080, #4682B4);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 2000px 2000px;
+
+}
+
+.instrucoes {
+  padding-top: 50px;
+  padding-bottom: 15px;
+  font-size: 40px;
+  color: white;
+  font-family:'Poppins', sans-serif ;
+  text-shadow: 2px 2px 4px #6495ED;
+
+}
+
+.textoInstrutivo{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 15px;
+  color: white;
+  font-family:'Poppins', sans-serif ;
+  text-align: justify
+}
+
+.bemVindo{
+  font-size: 15px;
+  padding-bottom: 15px;
+  color: white;
+  font-family:'Poppins', sans-serif ;
+ 
+}
+
+.linha4{
+  color:white;
+}

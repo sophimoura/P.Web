@@ -1,0 +1,93 @@
+/*Tela do Jogo*/
+
+.body3 {
+  width: 50%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: auto;
+  background-image: linear-gradient(to left, #000080, #4682B4);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 2000px 2000px;
+}
+
+.tituloDoJogo {
+  padding-top: 50px;
+  padding-bottom: 15px;
+  font-size: 40px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  text-shadow: 2px 2px 4px #6495ED;
+
+}
+
+.descricao {
+  padding-top: 50px;
+  padding-bottom: 15px;
+  font-size: 20px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.palpite {
+  padding-top: 50px;
+  padding-bottom: 15px;
+  font-size: 20px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.guessSubmit {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 5px 24px;
+  border-radius: 8px;
+  background-color: #008000;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.guessField {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 8px;
+  padding: 5px 20px;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.guesses {
+  color: azure;
+  padding: 5px 20px;
+  padding-top: 80px;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.lastResult {
+  color: azure;
+  padding: 5px 20px;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.lowOrHi {
+  color: azure;
+  padding: 5px 20px;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.linha3 {
+  color: white;
+
+}
+
+
+.recado {
+  font-size: 15px;
+  padding-bottom: 15px;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+
+}
